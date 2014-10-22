@@ -1,0 +1,9 @@
+body { 
+margin: 0;
+padding:0;
+font-size: ;
+background: url("images/moxie.jpg");
+color: ;
+background-repeat:;
+background-size: cover; 
+}
