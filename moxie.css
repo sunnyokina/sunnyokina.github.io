@@ -1,0 +1,11 @@
+body { 
+background-image: url('images/moxie4.jpg');
+background-size: cover; 
+font-family:'Miss_Faradose', serif;
+font-size: 48px;
+}
+
+p {
+color: #FFF;
+font-family:'Miss_Faradose';
+}
