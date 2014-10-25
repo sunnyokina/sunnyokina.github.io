@@ -1,20 +1,20 @@
 body { 
-background-image: url('images/moxie4.jpg');
-background-size: cover; 
-font-family:'Montserrat', serif;
-font-size: 48px;
+	background-image: url('images/moxie4.jpg');
+	background-size: cover; 
+	font-family:'Montserrat', serif;
+	font-size: 48px;
 }
 
 p {
-color: #FFF;
-font-size: 37px;
-margin-left: 70px;
+	color: #FFF;
+	font-size: 37px;
+	margin:0 0 0 70px;
 }
 
 h1 {
 	font-family:'Miss Fajardose', cursive;
 	font-size: 255px;
 	color: #fff;
-	margin-left: 45px;
-	margin-top: 100px;
-	}
+	margin:100px 0 0 45px;
+}
+span { color:#f60; }
